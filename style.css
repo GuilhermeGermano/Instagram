@@ -74,7 +74,7 @@ body{
 }
 
 .profile-photo img{
-    height: 6rem;
+    height: 7rem;
 }
 
 .instagram-login{
@@ -125,7 +125,7 @@ body{
 }
 
 .app-download:nth-child(2){
-    background-image: url('imagens/googleplay-button.png');
+    background-image: url('');
 }
 
 /* media queries */
